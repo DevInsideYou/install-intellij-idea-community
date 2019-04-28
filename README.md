@@ -1,0 +1,1 @@
+# install-intellij-idea-community
