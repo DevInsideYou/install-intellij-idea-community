@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # install idea
-sudo snap install intellij-idea-community --classic
+sudo snap install --classic intellij-idea-community
 
 # remove yourself
 rm $0
