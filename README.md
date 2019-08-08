@@ -4,3 +4,6 @@
 wget -q https://raw.githubusercontent.com/DevInsideYou/install-intellij-idea-community/master/install-intellij-idea-community.sh
 sudo chmod +x install-intellij-idea-community.sh && ./install-intellij-idea-community.sh
 ```
+
+### Runtime Dependencies:
+* [Java](https://github.com/DevInsideYou/install-java)
